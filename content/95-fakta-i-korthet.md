@@ -26,9 +26,12 @@ En snabb uppslagssida. För sammanhang och källor, se respektive kapitel.
 
 ## Historien vid Rökland
 
-- **Alnö gamla kyrka** restes vid Rökland på **1100-talet** — **Medelpads äldsta
-  bevarade kyrka**.
-- En **kastal** (försvarstorn) fanns vid kyrkan; skyddshelgon: **ärkeängeln
+- **Alnö gamla kyrka** restes vid Rökland under **tidig medeltid** (sent 1100-tal
+  eller 1200-tal — källorna varierar) — **Medelpads äldsta bevarade kyrka**.
+- Dagens **Alnö kyrka** (nya) är en nygotisk tegelkyrka ritad av **Ferdinand
+  Boberg**, invigd **1896** — den ersatte en träkyrka från **1863** som brann
+  **1888**.
+- En **kastal** (försvarstorn) fanns vid gamla kyrkan; skyddshelgon: **ärkeängeln
   Mikael**.
 - Grannbyn **Vi** har ett namn som betyder *helig plats*; hednisk offerplats i
   trakten sägs ha funnits redan på **400-talet**.
@@ -38,15 +41,21 @@ En snabb uppslagssida. För sammanhang och källor, se respektive kapitel.
 
 ## Nya Rökland
 
-- Detaljplan för **47 småhustomter**, antagen **16 dec 2024**, laga kraft
-  **13 jan 2025**.
+- Detaljplan för **ca 47 nya småhustomter** på skogsmark **norr om Kompassvägen**,
+  antagen **16 dec 2024**, laga kraft **13 jan 2025**.
+- Tomtregler: minsta tomt **900 m²**, byggrätt **25 %**, **1–2 våningar**, nockhöjd
+  max **8,5 m**; infart via **Kompassvägen**, granne med **Rönnbackens förskola**
+  och en **scoutgård**.
 - Förberedelser 2025–2026, projektering 2026, anläggning 2027, **tomter till
   marknaden 2027–2028**.
 - Drivs av **Sundsvalls kommun**. Frågor: **rokland@sundsvall.se**.
+- I trakten (dock inte inne på planområdet) finns den hotade **mnemosynefjärilen**,
+  vars starkaste svenska fäste är Medelpads kustland.
 
 ## Tre saker att imponera med på middagen
 
-1. Ni bor granne med **Medelpads äldsta kyrka** (1100-tal).
+1. Ni bor granne med **Medelpads äldsta kyrka** (tidig medeltid).
 2. Berget under huset är **560 miljoner år** gammalt och har gett namn åt en
    egen bergart.
-3. Er väg, **Skansvägen**, minns en **befästning** — och ni bor på nummer 1.
+3. Er väg, **Skansvägen**, hör till Röklands **sjöfarts- och försvarstema** av
+   gatunamn (Kompass-, Lantern-, Radar-, Spant-…) — och ni bor på nummer 1.

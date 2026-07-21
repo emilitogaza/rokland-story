@@ -12,10 +12,12 @@ handlar om marken under fötterna — inte bara tomten och huset, utan hela den
 långa historien som ledde fram till att det står ett hem just här.
 
 Det är en ovanligt rik plats att flytta till. På några hundra meters avstånd
-finns **Medelpads äldsta bevarade kyrka**, rest på 1100-talet. Berget ni bor på
-är känt bland geologer i hela världen. Och runt omkring växer just nu en helt ny
-stadsdel fram — kommunen planerar **47 nya småhustomter** i Rökland. Ni bor
-alltså på mycket gammal mark, mitt i något helt nytt.
+finns **Medelpads äldsta bevarade kyrka**, med rötter i medeltiden. Berget ni bor
+på är känt bland geologer i hela världen. Och alldeles intill det etablerade
+Rökland växer just nu en **ny stadsdel** fram — kommunen planerar **47 nya
+småhustomter** på skogsmarken norr om Kompassvägen. Ni bor alltså i ett
+hundraårigt villasamhälle på urgammal mark, med något helt nytt på väg upp som
+granne.
 
 ## Vad guiden täcker
 

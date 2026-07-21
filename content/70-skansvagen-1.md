@@ -12,22 +12,29 @@ ett längs vägen vars namn bär på en befästning.
 
 ## Namnet på din dörr
 
-Vi har redan varit inne på det: **skans** betyder försvarsverk, och vägnamnet
-knyter an till traktens gamla försvarshistoria — kastalen vid kyrkan, höjden över
-sundet, tiden då man behövde kunna skydda sig mot det som kom sjövägen. Att bo på
-**nummer 1** på en sådan väg är en fin detalj. Ni står först i ledet, längst fram
-på en väg som minns.
+Vi har redan varit inne på det: **skans** betyder försvarsverk. Skansvägen hör
+till en **temaserie av gatunamn** i Rökland med sjöfarts- och försvarston —
+Kompass-, Lantern-, Kajut-, Spant-, Radar- och Telegrafistvägen är grannar. Vägen
+är alltså troligen döpt som en del av det temat snarare än direkt efter den
+medeltida kastalen — men temat bär ändå kustens försvarsminne vidare, och att bo
+på **nummer 1** längs just Skansvägen är en fin liten detalj. Ni står först i
+ledet, längst fram på en väg som minns.
 
 Idag är det förstås fred och stillhet. Men namnet är en daglig liten påminnelse
 om att marken har en historia som är mycket äldre än huset.
 
 ## Att vara tidig
 
-Rökland är på väg att bli en helt ny stadsdel — men mycket av det nya ligger
-fortfarande framåt i tiden (se **Tidslinjen**). Det gör er till några av de
-**tidiga** här. Ni hinner lära känna platsen medan den fortfarande är tyst, se
-årstiderna växla över skogen och sundet, och följa hur området förändras runt
-omkring under åren som kommer.
+Här ska en sak sägas tydligt: **huset på Skansvägen 1 är inte nytt.** Det restes
+**1972**, i den villavåg som svepte in över Alnö efter att bron öppnade 1964 och
+gjorde ön till en pendlingsbar del av Sundsvall. Ni bor alltså i det **etablerade**
+Rökland — inte i den nya stadsdelen.
+
+Det nya kommer i stället som granne: de **47 tomterna** ska huggas ur skogen
+**norr om Kompassvägen**, och mycket av det ligger fortfarande framåt i tiden (se
+**Tidslinjen**). Det gör er till erfarna grannar när det nya området tar form —
+ni känner redan platsen, årstiderna över skogen och sundet, och kan följa
+förvandlingen på nära håll under åren som kommer.
 
 ## Resten skriver ni själva
 

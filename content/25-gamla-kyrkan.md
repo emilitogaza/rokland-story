@@ -2,20 +2,27 @@
 title: Alnö gamla kyrka vid Rökland
 section: Öns historia
 order: 25
-description: Medelpads äldsta bevarade kyrka, rest vid Rökland på 1100-talet — gråstenskyrkan med medeltida målningar, helgonbilder och ett läge över Alnösundet.
+description: Medelpads äldsta bevarade kyrka, rest vid Rökland under medeltiden — gråstenskyrkan med medeltida målningar, helgonbilder och ett läge över Alnösundet.
 ---
 
 # Alnö gamla kyrka vid Rökland
 
 Om Rökland har ett hjärta så är det den gamla kyrkan. Den restes **vid Rökland,
-strax norr om byn Vi, redan på 1100-talet** och är **Medelpads äldsta bevarade
-kyrka** — en av de allra äldsta i hela Norrland. Att den ligger just här, i det
-som idag är er hemtrakt, är platsens största historiska skatt.
+strax norr om byn Vi**, under **medeltiden** och är **Medelpads äldsta bevarade
+kyrka** — en av de allra äldsta i hela Norrland. (Om exakt datering, se rutan
+längre ner — källorna säger olika.) Att den ligger just här, i det som idag är
+er hemtrakt, är platsens största historiska skatt.
 
 ## En vitkalkad gråstenskyrka
 
-Den äldsta delen av kyrkan byggdes under **1100-talet** i **vitkalkad gråsten**.
-Enligt traditionen ska **tolv bönder** på ön ha tagit initiativ till bygget.
+Den äldsta delen av kyrkan byggdes i **vitkalkad gråsten**. Enligt traditionen
+ska **tolv bönder** på ön ha tagit initiativ till bygget.
+
+> **Om dateringen.** Olika källor sätter kyrkans äldsta delar till lite olika tid:
+> vissa till **sent 1100-tal**, andra till **1200-talet** (så anger till exempel
+> kommunens planhandlingar). Att den är från **tidig medeltid** och är Medelpads
+> äldsta bevarade kyrka är det ingen tvekan om — men det exakta århundradet är
+> inte helt spikat.
 Kyrkan restes på en höjd med utsikt över **Alnösundet** — ett läge som var både
 andligt och strategiskt, väl synligt för alla som kom sjövägen.
 
@@ -31,8 +38,11 @@ Inne i kyrkan finns konst som överlevt sekler:
   bildsnidaren **Haaken Gulleson** och tillkomna före reformationen 1520.
 
 Kyrkan byggdes ut under **1400-talet** med sakristia och vapenhus, och
-**fönster togs upp på 1700-talet**. I nästan sjuhundra år var detta öns **enda
-kyrka** — ända till **1863**, då en ny och större kyrka togs i bruk i närheten.
+**fönster togs upp på 1700-talet**. I närmare sjuhundra år var detta öns **enda
+kyrka** — ända till **1863**, då en ny och större **träkyrka** togs i bruk i
+närheten och tog över som församlingskyrka. (Den nya kyrkans dramatiska
+fortsättning — en brand och en tegelkyrka av Ferdinand Boberg — berättas i
+kapitlet **Sevärt på Alnö**.)
 
 ## Övergiven — och återupptäckt
 

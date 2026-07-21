@@ -2,7 +2,7 @@
 title: Sevärt på Alnö
 section: Guide & praktiskt
 order: 85
-description: Från 1100-talskyrkan vid Rökland till berget, sundet och stenstaden på andra sidan vattnet — det bästa att uppleva i närområdet.
+description: Från medeltidskyrkan vid Rökland till berget, sundet och stenstaden på andra sidan vattnet — det bästa att uppleva i närområdet.
 ---
 
 # Sevärt på Alnö
@@ -12,17 +12,20 @@ nära Rökland.
 
 ## Alnö gamla kyrka
 
-Grannen framför andra. **Medelpads äldsta bevarade kyrka**, rest vid Rökland på
-1100-talet, med medeltida målningar och helgonbilder under valven. Den används
+Grannen framför andra. **Medelpads äldsta bevarade kyrka**, rest vid Rökland
+under tidig medeltid, med medeltida målningar och helgonbilder under valven. Den används
 mest för **sommargudstjänster** och är en omtyckt **bröllopskyrka** — gå dit en
 ljus kväll och känn åldern i murarna. (Läs mer i kapitlet **Alnö gamla kyrka vid
 Rökland**.)
 
 ## Alnö kyrka — den nya
 
-När den gamla kyrkan blev för liten togs en **ny kyrka** i bruk **1863**. De två
-kyrkorna, den medeltida och den från 1800-talet, berättar tillsammans hela öns
-långa församlingshistoria — den ena avlöste den andra efter nästan 700 år.
+Historien om den nya kyrkan har en dramatisk knyck. En **träkyrka** togs i bruk
+**1863** och tog över som församlingskyrka — men den **brann ner 1888**. På samma
+plats restes då dagens **Alnö kyrka**, en nygotisk **tegelkyrka** ritad av den
+namnkunnige arkitekten **Ferdinand Boberg** och invigd **1896**. Tillsammans
+binder byggnaderna ihop hela öns historia: den medeltida kyrkan vid Rökland,
+träkyrkan som brann, och Bobergs tegelkyrka som står än.
 
 ## Berget och stranden
 

@@ -2,15 +2,15 @@
 title: Kastalen och Skansvägen
 section: Öns historia
 order: 30
-description: Om försvarstornet vid gamla kyrkan och hur ordet "skans" — en befästning — lever kvar i vägnamnet Skansvägen.
+description: Om försvarstornet vid gamla kyrkan, ordet "skans" — en befästning — och hur Skansvägen hör till Röklands tema av sjöfarts- och försvarsnamn.
 ---
 
 # Kastalen och Skansvägen
 
 Er adress bär på en ledtråd. **Skans** betyder *befästning* — ett försvarsverk,
-en förskansning. Ett vägnamn som **Skansvägen** pekar nästan alltid på att det
-funnits, eller sagts finnas, något att försvara i närheten. Och på Rökland fanns
-det.
+en förskansning. Ett vägnamn som **Skansvägen** väcker förstås frågan om vad som
+fanns att försvara här. Och på Rökland fanns det något — även om själva vägnamnet,
+som vi ska se, troligen har en lite annan bakgrund.
 
 ## Kyrkan som fäste
 
@@ -25,14 +25,17 @@ Att kyrkans skyddshelgon var **ärkeängeln Mikael**, stridernas och beskyddets
 
 ## Skansen i namnet
 
-Här ska man vara ärlig: att med säkerhet säga exakt vilken befästning som gett
-**Skansvägen** dess namn är svårt — gamla vägnamn dokumenterades sällan. Men
-namnet talar sitt tydliga språk. Det knyter an till traktens **försvarshistoria**,
-till kastalen och till en tid då Rökland var både helig och skyddad mark.
+Här ska man vara ärlig. Skansvägen ingår i en hel **temaserie av gatunamn** i
+Rökland som anspelar på sjöfart och kustförsvar — grannvägarna heter bland annat
+**Kompassvägen, Lanternvägen, Kajutvägen, Spantvägen, Radarvägen** och
+**Telegrafistvägen**. Skansvägen är alltså sannolikt namngiven som en del av det
+temat, inte nödvändigtvis direkt efter den medeltida kastalen.
 
-När ni går längs Skansvägen går ni alltså på en väg vars namn minns att det en
-gång fanns skäl att kunna försvara sig här. Idag är det en fridfull plats — men
-namnet bär historien vidare.
+Men temat i sig — *skans, lanterna, kompass* — bär ju kustens och försvarets minne
+vidare. Och för den som bor på höjden nära den gamla kyrkan är kopplingen till
+kastalen ändå nära till hands, vare sig namnsättarna tänkte på den eller inte.
+När ni går längs Skansvägen går ni på en väg vars namn, på ett eller annat sätt,
+minns att kusten en gång behövde vaktas.
 
 > **Att skilja på orden:** En *kastal* är ett medeltida försvarstorn i sten. En
 > *skans* är en befästning eller förskansning i vidare mening. Släkt är de — och
