@@ -1,0 +1,49 @@
+{
+  "name": "Fuel Lab — nutritional science for athletes",
+  "short_name": "Fuel Lab",
+  "description": "An evidence-based course on nutritional science — protein and amino acids, vitamins and supplements, fuelling performance, and losing fat while keeping muscle.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "hsl(10, 55%, 4%)",
+  "theme_color": "hsl(10, 55%, 4%)",
+  "orientation": "portrait",
+  "launch_handler": {
+    "client_mode": ["focus-existing", "auto"]
+  },
+  "dir": "ltr",
+  "lang": "en",
+  "prefer_related_applications": false,
+  "scope": "/",
+  "display_override": ["window-controls-overlay", "standalone", "browser"],
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-192x192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-512x512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
