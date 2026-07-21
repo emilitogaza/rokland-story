@@ -11,13 +11,13 @@ then write the chapter body in normal Markdown.
 
 ```markdown
 ---
-title: How Much Protein?
-section: Protein & Amino Acids
-order: 10
+title: Alnö gamla kyrka vid Rökland
+section: Öns historia
+order: 25
 description: A short summary shown in the browser tab and previews.
 ---
 
-# How Much Protein?
+# Alnö gamla kyrka vid Rökland
 
 Your content goes here...
 

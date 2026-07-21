@@ -1,6 +1,6 @@
 "use client";
 
-import { BookOpen, ChevronUp, X } from "lucide-react";
+import { ChevronUp, Trees, X } from "lucide-react";
 import { AnimatePresence, m, useReducedMotion } from "motion/react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -107,8 +107,8 @@ export function MobileNav({ sections }: { sections: ChapterSection[] }) {
                     onClick={() => setOpen(false)}
                     className="flex items-center gap-2 text-sm font-semibold text-brand-ink"
                   >
-                    <BookOpen className="size-4 text-brand" />
-                    Fuel Lab
+                    <Trees className="size-4 text-brand" />
+                    Rökland
                   </Link>
                   <button
                     type="button"

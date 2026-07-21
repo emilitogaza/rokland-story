@@ -4,17 +4,34 @@
 @custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
-    /* Red — the raw palette. Semantic tokens below map onto these per theme. */
-    --color-orange-50: hsl(10, 60%, 97%);
-    --color-orange-100: hsl(10, 58%, 93%);
-    --color-orange-200: hsl(10, 56%, 85%);
-    --color-orange-400: hsl(10, 78%, 62%);
-    --color-orange-500: hsl(10, 82%, 52%);
-    --color-orange-600: hsl(10, 74%, 44%);
-    --color-orange-700: hsl(10, 70%, 34%);
-    --color-orange-800: hsl(10, 64%, 25%);
-    --color-orange-900: hsl(10, 60%, 11%);
-    --color-orange-950: hsl(10, 55%, 4%);
+    /* Spruce — the brand green. Semantic tokens below map onto these per theme. */
+    --color-spruce-50: hsl(156, 30%, 95%);
+    --color-spruce-100: hsl(156, 30%, 88%);
+    --color-spruce-200: hsl(156, 28%, 78%);
+    --color-spruce-400: hsl(158, 40%, 44%);
+    --color-spruce-500: hsl(160, 52%, 33%);
+    --color-spruce-600: hsl(162, 56%, 26%);
+    --color-spruce-700: hsl(164, 58%, 20%);
+    --color-spruce-800: hsl(165, 52%, 14%);
+    --color-spruce-900: hsl(166, 42%, 8%);
+    --color-spruce-950: hsl(167, 40%, 4.5%);
+
+    /* Stone — granite neutrals, a cool grey with a faint green cast. */
+    --color-stone-50: hsl(150, 12%, 96%);
+    --color-stone-100: hsl(150, 11%, 91%);
+    --color-stone-200: hsl(150, 10%, 83%);
+    --color-stone-400: hsl(152, 8%, 52%);
+    --color-stone-500: hsl(153, 8%, 40%);
+    --color-stone-600: hsl(155, 9%, 31%);
+    --color-stone-700: hsl(157, 10%, 23%);
+    --color-stone-800: hsl(160, 12%, 15%);
+    --color-stone-900: hsl(162, 16%, 9%);
+    --color-stone-950: hsl(164, 18%, 5%);
+
+    /* Birch — warm cream, for light backgrounds and text on dark surfaces. */
+    --color-birch-50: hsl(45, 40%, 97%);
+    --color-birch-100: hsl(44, 34%, 93%);
+    --color-birch-200: hsl(43, 30%, 86%);
 
     /* Error */
     --color-error-100: hsl(350, 80%, 95%);
@@ -110,55 +127,55 @@
 :root {
     color-scheme: light;
 
-    --sem-ink: var(--color-orange-900);
-    --sem-ink-dim: var(--color-orange-800);
-    --sem-ink-flip: var(--color-orange-50);
-    --sem-fill: var(--color-orange-50);
-    --sem-fill-raised: var(--color-orange-100);
-    --sem-fill-dark: var(--color-orange-900);
+    --sem-ink: var(--color-stone-900);
+    --sem-ink-dim: var(--color-stone-700);
+    --sem-ink-flip: var(--color-birch-50);
+    --sem-fill: var(--color-birch-50);
+    --sem-fill-raised: var(--color-birch-100);
+    --sem-fill-dark: var(--color-stone-900);
 
-    --sem-brand-ink: var(--color-orange-900);
-    --sem-brand-ink-flip: var(--color-orange-50);
-    --sem-brand: var(--color-orange-500);
-    --sem-brand-fill: var(--color-orange-900);
+    --sem-brand-ink: var(--color-spruce-800);
+    --sem-brand-ink-flip: var(--color-birch-50);
+    --sem-brand: var(--color-spruce-500);
+    --sem-brand-fill: var(--color-spruce-800);
 
-    --sem-border: var(--color-orange-200);
-    --sem-link: var(--color-orange-600);
+    --sem-border: var(--color-stone-200);
+    --sem-link: var(--color-spruce-600);
     --sem-error-ink: var(--color-error-500);
     --sem-error: var(--color-error-500);
     --sem-error-fill: var(--color-error-900);
 
     /* Scrollbar thumb, tuned per theme */
-    --scrollbar: var(--color-orange-200);
-    --scrollbar-hover: var(--color-orange-400);
+    --scrollbar: var(--color-stone-200);
+    --scrollbar-hover: var(--color-stone-400);
 }
 
 /* Dark theme */
 .dark {
     color-scheme: dark;
 
-    --sem-ink: var(--color-orange-50);
-    --sem-ink-dim: var(--color-orange-200);
-    /* Text on brand/error surfaces stays light — those surfaces are mid reds
+    --sem-ink: var(--color-birch-50);
+    --sem-ink-dim: var(--color-stone-200);
+    /* Text on brand/error surfaces stays light — the brand surface is mid spruce
        in both themes, so this does not flip with the rest of the palette. */
-    --sem-ink-flip: var(--color-orange-50);
-    --sem-fill: var(--color-orange-950);
-    --sem-fill-raised: var(--color-orange-900);
-    --sem-fill-dark: var(--color-orange-950);
+    --sem-ink-flip: var(--color-birch-50);
+    --sem-fill: var(--color-stone-950);
+    --sem-fill-raised: var(--color-stone-900);
+    --sem-fill-dark: var(--color-stone-950);
 
-    --sem-brand-ink: var(--color-orange-50);
-    --sem-brand-ink-flip: var(--color-orange-900);
-    --sem-brand: var(--color-orange-500);
-    --sem-brand-fill: var(--color-orange-100);
+    --sem-brand-ink: var(--color-birch-50);
+    --sem-brand-ink-flip: var(--color-spruce-900);
+    --sem-brand: var(--color-spruce-500);
+    --sem-brand-fill: var(--color-spruce-100);
 
-    --sem-border: var(--color-orange-800);
-    --sem-link: var(--color-orange-400);
+    --sem-border: var(--color-stone-800);
+    --sem-link: var(--color-spruce-400);
     --sem-error-ink: var(--color-error-500);
     --sem-error: var(--color-error-500);
     --sem-error-fill: var(--color-error-900);
 
-    --scrollbar: var(--color-orange-800);
-    --scrollbar-hover: var(--color-orange-700);
+    --scrollbar: var(--color-stone-800);
+    --scrollbar-hover: var(--color-stone-700);
 }
 
 /* Base styles */

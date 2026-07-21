@@ -1,4 +1,4 @@
-import { BookOpen } from "lucide-react";
+import { Trees } from "lucide-react";
 import Link from "next/link";
 import { CourseSidebar } from "@/components/course-sidebar";
 import { MobileNav } from "@/components/mobile-nav";
@@ -21,8 +21,8 @@ export default function CourseLayout({ children }: { children: React.ReactNode }
             href="/"
             className="flex items-center gap-2 text-base font-semibold text-brand-ink"
           >
-            <BookOpen className="size-5 text-brand" />
-            Fuel Lab
+            <Trees className="size-5 text-brand" />
+            Rökland
           </Link>
           <ThemeToggle />
         </div>

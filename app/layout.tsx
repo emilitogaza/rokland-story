@@ -15,16 +15,16 @@ const monaSans = Mona_Sans({
 // back to the OS preference when the user hasn't chosen one yet.
 const themeScript = `(function(){try{var t=localStorage.getItem("theme");var d=t==="dark"||(t!=="light"&&window.matchMedia("(prefers-color-scheme: dark)").matches);document.documentElement.classList.toggle("dark",d);}catch(e){}})();`;
 
-const SITE_NAME = "Fuel Lab";
-const SITE_TITLE = "Fuel Lab — nutritional science for athletes";
+const SITE_NAME = "Rökland";
+const SITE_TITLE = "Rökland — historien, naturen och guiden till vår del av Alnö";
 const SITE_DESCRIPTION =
-  "An evidence-based course on nutritional science — protein and amino acids, vitamins and supplements, fuelling performance, and losing fat while keeping muscle. Built for athletes, from the fundamentals to the current research.";
+  "En guide till Rökland på Alnö utanför Sundsvall — från Alnö gamla kyrka och öns urgamla berggrund till den nya stadsdelen med 47 småhustomter. Historia, natur, kuriosa och en berättelse om Skansvägen 1.";
 
 
 export const viewport: Viewport = {
   themeColor: [
-    { media: "(prefers-color-scheme: light)", color: "hsl(10, 60%, 97%)" },
-    { media: "(prefers-color-scheme: dark)", color: "hsl(10, 55%, 4%)" },
+    { media: "(prefers-color-scheme: light)", color: "hsl(45, 40%, 97%)" },
+    { media: "(prefers-color-scheme: dark)", color: "hsl(164, 18%, 5%)" },
   ],
 };
 
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     },
     description: SITE_DESCRIPTION,
     siteName: SITE_NAME,
-    locale: "en_US",
+    locale: "sv_SE",
     type: "website",
   },
   twitter: {
@@ -61,7 +61,7 @@ export default function RootLayout({
 }>) {
   return (
     <html
-      lang="en"
+      lang="sv"
       // Lets Next.js disable the CSS smooth scroll while it resets the scroll
       // position on navigation, so route transitions don't animate a scroll.
       data-scroll-behavior="smooth"
