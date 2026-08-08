@@ -1,3 +1,12 @@
-<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M128 128C194.274 128 248 181.726 248 248H150.39C148.449 214.538 120.7 188 86.75 188C52.8003 188 25.0513 214.538 23.1097 248H8C8 181.726 61.7262 128 128 128ZM105.61 8C107.551 41.4631 135.3 68 169.25 68C203.2 68 230.949 41.4631 232.89 8H248C248 74.2738 194.274 128 128 128C61.7262 128 8 74.2738 8 8H105.61Z" fill="#2A7E62"/>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="112" ry="112" fill="#07100E"/>
+  <rect x="12" y="12" width="488" height="488" rx="100" ry="100" fill="none" stroke="#288063" stroke-opacity="0.16" stroke-width="4"/>
+  <g transform="translate(112,112) scale(12)" fill="none" stroke="#288063" stroke-linecap="round" stroke-linejoin="round">
+    <g stroke-opacity="1" stroke-width="2.4">
+      <path d="M10 10v.2A3 3 0 0 1 8.9 16H5a3 3 0 0 1-1-5.8V10a3 3 0 0 1 6 0Z"/>
+      <path d="M7 16v6"/>
+      <path d="M13 19v3"/>
+      <path d="M12 19h8.3a1 1 0 0 0 .7-1.7L18 14h.3a1 1 0 0 0 .7-1.7L16 9h.2a1 1 0 0 0 .8-1.7L13 3l-1.4 1.5"/>
+    </g>
+  </g>
 </svg>

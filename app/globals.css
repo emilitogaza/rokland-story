@@ -96,10 +96,7 @@
     --animate-fade-in: fade-in 300ms ease-out both;
 }
 
-/* Semantic color tokens resolve through these `--sem-*` runtime variables so a
-   `.dark` root can swap the whole palette. `@theme inline` inlines each value
-   into its utility (e.g. `bg-fill` → `var(--sem-fill)`), which is what lets the
-   `.dark` override win at the element instead of freezing at `:root`. */
+/* Semantic tokens — resolved through `--sem-*` so `.dark` can swap the palette. */
 @theme inline {
     /* Base */
     --color-ink: var(--sem-ink);
