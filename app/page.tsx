@@ -29,6 +29,16 @@ const OTHER_COURSES = [
     href: "https://pso-course.vercel.app",
     description: "Att förstå psoriasis och psoriasisartrit — på engelska.",
   },
+  {
+    title: "Port 22",
+    href: "https://ssh-course.vercel.app",
+    description: "Så funkar SSH, servrar och nycklar — på engelska.",
+  },
+  {
+    title: "Från jord till bord",
+    href: "https://fran-jord-till-bord.vercel.app",
+    description: "Så funkar svenskt lantbruk — på engelska.",
+  },
 ];
 
 export default function Home() {
