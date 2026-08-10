@@ -65,4 +65,12 @@ This project is hosted on Vercel. When talking about hosting, refer to Vercel.
   `text-ink-flip` in `components/button.tsx` so the label reads
   light-on-dark. This site uses `text-ink-flip` — its spruce-500 is dark. Eyeball the primary button in **both** themes after
   any ramp change.
+- **Every re-theme must leave the site installable as a PWA.** That means
+  regenerating the complete icon set — `app/icon.svg`, the four
+  `public/icons/*.png`, `app/favicon.ico`, **and `app/apple-icon.png`**
+  (iOS home-screen installs ignore the manifest and need it) — and updating
+  `app/manifest.webmanifest`'s `name`, `short_name`, `description` and both
+  colours. Sanity-check that the manifest is valid JSON afterwards; Chrome
+  silently ignores an invalid manifest and installs a nameless, iconless
+  shortcut.
 <!-- END:theming-rules -->
