@@ -39,6 +39,11 @@ const OTHER_COURSES = [
     href: "https://fran-jord-till-bord.vercel.app",
     description: "Så funkar svenskt lantbruk — på engelska.",
   },
+  {
+    title: "Watt's Up",
+    href: "https://watts-up.vercel.app",
+    description: "Så funkar el — från elektroner till elnätet. På engelska.",
+  },
 ];
 
 export default function Home() {

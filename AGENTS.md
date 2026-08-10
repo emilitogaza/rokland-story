@@ -63,6 +63,6 @@ This project is hosted on Vercel. When talking about hosting, refer to Vercel.
   only works on bright brand colours. If the ramp's `-500` stop is dark
   (rough guide: HSL lightness under ~55%), the default variant's text must be
   `text-ink-flip` in `components/button.tsx` so the label reads
-  light-on-dark. Eyeball the primary button in **both** themes after
+  light-on-dark. This site uses `text-ink-flip` — its spruce-500 is dark. Eyeball the primary button in **both** themes after
   any ramp change.
 <!-- END:theming-rules -->
