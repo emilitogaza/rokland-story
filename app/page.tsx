@@ -41,7 +41,7 @@ const OTHER_COURSES = [
   },
   {
     title: "Watt's Up",
-    href: "https://watts-up.vercel.app",
+    href: "https://watts-up-khaki.vercel.app",
     description: "Så funkar el — från elektroner till elnätet. På engelska.",
   },
   {
