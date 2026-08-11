@@ -44,6 +44,11 @@ const OTHER_COURSES = [
     href: "https://watts-up.vercel.app",
     description: "Så funkar el — från elektroner till elnätet. På engelska.",
   },
+  {
+    title: "Nuts & Bolts",
+    href: "https://nuts-and-bolts.vercel.app",
+    description: "Vridmoment, skruvar, metaller och maskiner — på engelska.",
+  },
 ];
 
 export default function Home() {
