@@ -21,7 +21,7 @@ export default function CourseLayout({ children }: { children: React.ReactNode }
             href="/"
             className="flex items-center gap-2 text-base font-semibold text-brand-ink"
           >
-            <Trees className="size-5 text-brand" />
+            <Trees className="icon-5 text-brand" />
             Rökland
           </Link>
           <ThemeToggle />
