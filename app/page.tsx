@@ -46,7 +46,7 @@ const OTHER_COURSES = [
   },
   {
     title: "Nuts & Bolts",
-    href: "https://nuts-and-bolts.vercel.app",
+    href: "https://nuts-and-bolts-sigma.vercel.app",
     description: "Vridmoment, skruvar, metaller och maskiner — på engelska.",
   },
 ];
