@@ -49,6 +49,11 @@ const OTHER_COURSES = [
     href: "https://nuts-and-bolts-sigma.vercel.app",
     description: "Vridmoment, skruvar, metaller och maskiner — på engelska.",
   },
+  {
+    title: "Glass Act",
+    href: "https://emhart-glass.vercel.app",
+    description: "Historien om Emhart Glass och flaskmaskinerna — på engelska.",
+  },
 ];
 
 export default function Home() {
